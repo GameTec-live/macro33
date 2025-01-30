@@ -1,0 +1,28 @@
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'win32'
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.11.5 (main, Jan 19 2024, 08:13:45) [MSC v.1936 64 bit (AMD64)]'
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.0
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x0000022DF3F6BB50>
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW9 on root level
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW8 on root level
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW7 on root level
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW6 on root level
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW5 on root level
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW4 on root level
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW3 on root level
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW2 on root level
+01-30 21:12:39 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW1 on root level
+01-30 21:12:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 830:Reference designator is: SW
+01-30 21:12:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 831:Reference number is: 1
+01-30 21:12:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 863:Sorted and filtered list:
+['SW1', 'SW2', 'SW3', 'SW4', 'SW5', 'SW6', 'SW7', 'SW8', 'SW9']
+01-30 21:12:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 359:wx.Colour(240, 240, 240, 255)
+01-30 21:12:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 490:'24'
+01-30 21:12:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 549:Preparing config for reference matrix
+01-30 21:12:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 556:Saving config file
+01-30 21:12:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 558:Saved the config file
+01-30 21:12:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 901:Footprints to place:
+['SW1', 'SW2', 'SW3', 'SW4', 'SW5', 'SW6', 'SW7', 'SW8', 'SW9']
+01-30 21:12:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 398:Starting placing with matrix layout
+01-30 21:12:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 971:Placing complete
