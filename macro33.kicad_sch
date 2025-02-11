@@ -7119,7 +7119,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "100nF"
 			(at 91.44 153.6699 0)
 			(effects
 				(font
