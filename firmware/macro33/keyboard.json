@@ -13,9 +13,9 @@
     },
     "matrix_pins": {
         "direct": [
-            ["GP0", "GP1", "GP2"],
-            ["GP3", "GP4", "GP5"],
-            ["GP6", "GP7", "GP8"]
+            ["GP6", "GP3", "GP0"],
+            ["GP7", "GP4", "GP1"],
+            ["GP8", "GP5", "GP2"]
         ]
     },
     "url": "",
