@@ -1,0 +1,69 @@
+{
+  "name": "Macro33",
+  "vendorProductId": 1196705620,
+  "macros": [
+    "{KC_LGUI,KC_LSFT,KC_S}",
+    "{KC_LCTL,KC_K}{KC_F}",
+    "{KC_LCTL,KC_K}{KC_LCTL,KC_O}",
+    "{KC_LALT,KC_UP}",
+    "{KC_LCTL,KC_LSFT,KC_I}",
+    "{KC_LCTL,KC_LSFT,KC_7}",
+    "{KC_LALT,KC_DOWN}",
+    "{KC_LCTL,KC_K}{KC_S}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "{KC_LGUI}{10}konsole{10}\n{800}ssh server{+KC_RALT}q{-KC_RALT}server.gametec/live.com\n"
+  ],
+  "layers": [
+    [
+      "MACRO(0)",
+      "MACRO(1)",
+      "MACRO(2)",
+      "MACRO(3)",
+      "MACRO(4)",
+      "MACRO(5)",
+      "MACRO(6)",
+      "MACRO(7)",
+      "MO(1)"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "MO(2)",
+      "KC_TRNS"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "MACRO(15)",
+      "KC_TRNS",
+      "KC_TRNS"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ]
+  ],
+  "encoders": []
+}
