@@ -17,7 +17,7 @@
     "",
     "",
     "",
-    "{KC_LGUI}{10}konsole{10}\n{800}ssh server{+KC_RALT}q{-KC_RALT}server.gametec/live.com\n"
+    "{KC_LGUI}{10}konsole{10}\n{800}ssh user{+KC_RALT}q{-KC_RALT}ip\n"
   ],
   "layers": [
     [
@@ -38,7 +38,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "TG(3)",
       "MO(2)",
       "KC_TRNS"
     ],
@@ -54,15 +54,15 @@
       "KC_TRNS"
     ],
     [
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS"
+      "MACRO(0)",
+      "A(KC_INS)",
+      "C(KC_O)",
+      "LSA(KC_UP)",
+      "LCA(KC_ENT)",
+      "LCA(KC_PSLS)",
+      "LSA(KC_DOWN)",
+      "TG(3)",
+      "A(KC_INS)"
     ]
   ],
   "encoders": []
