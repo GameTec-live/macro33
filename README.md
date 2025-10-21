@@ -1,4 +1,5 @@
 # macro33
+
 an attempt at building a small, low profile, portable macro pad...
 
 ## Features:
@@ -8,3 +9,5 @@ an attempt at building a small, low profile, portable macro pad...
 - QMK
 - Hotswap sockets
 - Mechanical switches
+
+![](img.jpg)
